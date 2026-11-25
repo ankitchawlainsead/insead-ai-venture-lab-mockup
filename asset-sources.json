@@ -143,5 +143,20 @@
     "file": "fonts.css",
     "source": "https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&family=Roboto+Slab:wght@200;300;400&display=swap",
     "note": "Downloaded font files referenced locally. Google Fonts Roboto and Roboto Slab."
+  },
+  {
+    "file": "native-d160ad2938.png",
+    "source": "https://www.insead.edu/sites/insead/files/2023-01/logo-sorbonne_white_0.png",
+    "alt": "Sorbonne Logo"
+  },
+  {
+    "file": "native-f8d9a577a1.png",
+    "source": "https://www.insead.edu/sites/insead/files/2023-01/logo-wharton_white.png",
+    "alt": "Wharton Logo"
+  },
+  {
+    "file": "native-5267579cb4.png",
+    "source": "https://www.insead.edu/sites/insead/files/2023-01/logo-tsinghua_white.png",
+    "alt": "Tsinghua Logo"
   }
 ]

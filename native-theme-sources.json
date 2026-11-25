@@ -1,0 +1,374 @@
+{
+  "stylesheets": [
+    {
+      "url": "https://www.insead.edu/sites/insead/files/css/css_W7FPNJIuv09nzu0-EeE1yHw9OdcriwlflnUz5j9LV8E.css?delta=0&language=en&theme=insead_core&include=eJx9UwtyhCAMvZCsR2ICRKULhIGw2719o3anRW1nGInvkX9iwN41k5w8mh9ZM37yYJAZi8bPTBWdnnyQ3zrOmLBAGCwVHF1pGcLNeQg0DxOVyD7X8S0MPlWnger4FjQkH4E9pZVDcHqzA1Yud0Kd8-tTCCr4dK8daSBJID1EzBTVBWOhOEXmAy33OCXGxKoycG_eAWMP4AQt9OoTWDzoTUR8cL5DKmJqV_gDigeJgVLvcA5kpM6_oUWkfzSksvMBSVI4PLveZWWKfG1p0VyxEWf4U7U2c-YCGAyKYe5R6Z16el4UlELPA1f5qjERZaaUt4eJWD3ups655gA-XTW_inGZIsWeAyrL0LNByXRQq9jXupKVqT7nuFvZYtjW5Df38PhUmbz0Zp24IcCLGmvTfJC-jbwUREtBf0f05p2vlh5YXqN0VPghQ4G5QF7qe8N-kFtLuRmp24JuENfFLhqy19CYLMUckNeUL_FhT0pv1dXbTo1n6MYLRnn7qoxR9qziF9dvnOY",
+      "file": "01-css_W7FPNJIuv09nzu0-EeE1yHw9OdcriwlflnUz5j9LV8E.css"
+    },
+    {
+      "url": "https://www.insead.edu/sites/insead/files/css/css_gHDmMG7i--X_Er1Ijyi2wRY5y4nGeoe_wNLswrizs6M.css?delta=1&language=en&theme=insead_core&include=eJx9UwtyhCAMvZCsR2ICRKULhIGw2719o3anRW1nGInvkX9iwN41k5w8mh9ZM37yYJAZi8bPTBWdnnyQ3zrOmLBAGCwVHF1pGcLNeQg0DxOVyD7X8S0MPlWnger4FjQkH4E9pZVDcHqzA1Yud0Kd8-tTCCr4dK8daSBJID1EzBTVBWOhOEXmAy33OCXGxKoycG_eAWMP4AQt9OoTWDzoTUR8cL5DKmJqV_gDigeJgVLvcA5kpM6_oUWkfzSksvMBSVI4PLveZWWKfG1p0VyxEWf4U7U2c-YCGAyKYe5R6Z16el4UlELPA1f5qjERZaaUt4eJWD3ups655gA-XTW_inGZIsWeAyrL0LNByXRQq9jXupKVqT7nuFvZYtjW5Df38PhUmbz0Zp24IcCLGmvTfJC-jbwUREtBf0f05p2vlh5YXqN0VPghQ4G5QF7qe8N-kFtLuRmp24JuENfFLhqy19CYLMUckNeUL_FhT0pv1dXbTo1n6MYLRnn7qoxR9qziF9dvnOY",
+      "file": "02-css_gHDmMG7i--X_Er1Ijyi2wRY5y4nGeoe_wNLswrizs6M.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/accordion.css?toxpzq",
+      "file": "03-accordion.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/additional-links.css?toxpzq",
+      "file": "04-additional-links.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/banner.css?toxpzq",
+      "file": "05-banner.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/bottom-banner.css?toxpzq",
+      "file": "06-bottom-banner.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/card-object.css?toxpzq",
+      "file": "07-card-object.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/content-stats.css?toxpzq",
+      "file": "08-content-stats.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/date.css?toxpzq",
+      "file": "09-date.css"
+    },
+    {
+      "url": "https://www.insead.edu/sites/insead/files/css/css_nBWpE8r1XCw92bgaUTYufmsI6trsedTCCdQy0QqD8Y4.css?delta=9&language=en&theme=insead_core&include=eJx9UwtyhCAMvZCsR2ICRKULhIGw2719o3anRW1nGInvkX9iwN41k5w8mh9ZM37yYJAZi8bPTBWdnnyQ3zrOmLBAGCwVHF1pGcLNeQg0DxOVyD7X8S0MPlWnger4FjQkH4E9pZVDcHqzA1Yud0Kd8-tTCCr4dK8daSBJID1EzBTVBWOhOEXmAy33OCXGxKoycG_eAWMP4AQt9OoTWDzoTUR8cL5DKmJqV_gDigeJgVLvcA5kpM6_oUWkfzSksvMBSVI4PLveZWWKfG1p0VyxEWf4U7U2c-YCGAyKYe5R6Z16el4UlELPA1f5qjERZaaUt4eJWD3ups655gA-XTW_inGZIsWeAyrL0LNByXRQq9jXupKVqT7nuFvZYtjW5Df38PhUmbz0Zp24IcCLGmvTfJC-jbwUREtBf0f05p2vlh5YXqN0VPghQ4G5QF7qe8N-kFtLuRmp24JuENfFLhqy19CYLMUckNeUL_FhT0pv1dXbTo1n6MYLRnn7qoxR9qziF9dvnOY",
+      "file": "10-css_nBWpE8r1XCw92bgaUTYufmsI6trsedTCCdQy0QqD8Y4.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/facet.css?toxpzq",
+      "file": "11-facet.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/site-footer.css?toxpzq",
+      "file": "12-site-footer.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/footer-menu.css?toxpzq",
+      "file": "13-footer-menu.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/footer-variant-one.css?toxpzq",
+      "file": "14-footer-variant-one.css"
+    },
+    {
+      "url": "https://www.insead.edu/sites/insead/files/css/css_pPNYMns0qPHUH4--gz9LytpChMt5zCs18GTu0vcRDZQ.css?delta=14&language=en&theme=insead_core&include=eJx9UwtyhCAMvZCsR2ICRKULhIGw2719o3anRW1nGInvkX9iwN41k5w8mh9ZM37yYJAZi8bPTBWdnnyQ3zrOmLBAGCwVHF1pGcLNeQg0DxOVyD7X8S0MPlWnger4FjQkH4E9pZVDcHqzA1Yud0Kd8-tTCCr4dK8daSBJID1EzBTVBWOhOEXmAy33OCXGxKoycG_eAWMP4AQt9OoTWDzoTUR8cL5DKmJqV_gDigeJgVLvcA5kpM6_oUWkfzSksvMBSVI4PLveZWWKfG1p0VyxEWf4U7U2c-YCGAyKYe5R6Z16el4UlELPA1f5qjERZaaUt4eJWD3ups655gA-XTW_inGZIsWeAyrL0LNByXRQq9jXupKVqT7nuFvZYtjW5Df38PhUmbz0Zp24IcCLGmvTfJC-jbwUREtBf0f05p2vlh5YXqN0VPghQ4G5QF7qe8N-kFtLuRmp24JuENfFLhqy19CYLMUckNeUL_FhT0pv1dXbTo1n6MYLRnn7qoxR9qziF9dvnOY",
+      "file": "15-css_pPNYMns0qPHUH4--gz9LytpChMt5zCs18GTu0vcRDZQ.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/header-variant-one.css?toxpzq",
+      "file": "16-header-variant-one.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/header-search.css?toxpzq",
+      "file": "17-header-search.css"
+    },
+    {
+      "url": "https://www.insead.edu/sites/insead/files/css/css_cRRTmZiDD1-l3HKIY7vxMFdRYBZUopdb8AtR_ftyo0Q.css?delta=17&language=en&theme=insead_core&include=eJx9UwtyhCAMvZCsR2ICRKULhIGw2719o3anRW1nGInvkX9iwN41k5w8mh9ZM37yYJAZi8bPTBWdnnyQ3zrOmLBAGCwVHF1pGcLNeQg0DxOVyD7X8S0MPlWnger4FjQkH4E9pZVDcHqzA1Yud0Kd8-tTCCr4dK8daSBJID1EzBTVBWOhOEXmAy33OCXGxKoycG_eAWMP4AQt9OoTWDzoTUR8cL5DKmJqV_gDigeJgVLvcA5kpM6_oUWkfzSksvMBSVI4PLveZWWKfG1p0VyxEWf4U7U2c-YCGAyKYe5R6Z16el4UlELPA1f5qjERZaaUt4eJWD3ups655gA-XTW_inGZIsWeAyrL0LNByXRQq9jXupKVqT7nuFvZYtjW5Df38PhUmbz0Zp24IcCLGmvTfJC-jbwUREtBf0f05p2vlh5YXqN0VPghQ4G5QF7qe8N-kFtLuRmp24JuENfFLhqy19CYLMUckNeUL_FhT0pv1dXbTo1n6MYLRnn7qoxR9qziF9dvnOY",
+      "file": "18-css_cRRTmZiDD1-l3HKIY7vxMFdRYBZUopdb8AtR_ftyo0Q.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/link-with-arrow.css?toxpzq",
+      "file": "19-link-with-arrow.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/list-object.css?toxpzq",
+      "file": "20-list-object.css"
+    },
+    {
+      "url": "https://www.insead.edu/sites/insead/files/css/css_7Eyu1kELuDNMHWbV1hTEsqf1E_A24VqzB9rrOuO7NRs.css?delta=20&language=en&theme=insead_core&include=eJx9UwtyhCAMvZCsR2ICRKULhIGw2719o3anRW1nGInvkX9iwN41k5w8mh9ZM37yYJAZi8bPTBWdnnyQ3zrOmLBAGCwVHF1pGcLNeQg0DxOVyD7X8S0MPlWnger4FjQkH4E9pZVDcHqzA1Yud0Kd8-tTCCr4dK8daSBJID1EzBTVBWOhOEXmAy33OCXGxKoycG_eAWMP4AQt9OoTWDzoTUR8cL5DKmJqV_gDigeJgVLvcA5kpM6_oUWkfzSksvMBSVI4PLveZWWKfG1p0VyxEWf4U7U2c-YCGAyKYe5R6Z16el4UlELPA1f5qjERZaaUt4eJWD3ups655gA-XTW_inGZIsWeAyrL0LNByXRQq9jXupKVqT7nuFvZYtjW5Df38PhUmbz0Zp24IcCLGmvTfJC-jbwUREtBf0f05p2vlh5YXqN0VPghQ4G5QF7qe8N-kFtLuRmp24JuENfFLhqy19CYLMUckNeUL_FhT0pv1dXbTo1n6MYLRnn7qoxR9qziF9dvnOY",
+      "file": "21-css_7Eyu1kELuDNMHWbV1hTEsqf1E_A24VqzB9rrOuO7NRs.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/menu-with-image.css?toxpzq",
+      "file": "22-menu-with-image.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/plain-banner.css?toxpzq",
+      "file": "23-plain-banner.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/section-title-cta.css?toxpzq",
+      "file": "24-section-title-cta.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/sl-carousel.css?toxpzq",
+      "file": "25-sl-carousel.css"
+    },
+    {
+      "url": "https://www.insead.edu/sites/insead/files/css/css_k7q_8fakTpVm1URkc0cnne4_6rLwXVQ37ARraxn1GzQ.css?delta=25&language=en&theme=insead_core&include=eJx9UwtyhCAMvZCsR2ICRKULhIGw2719o3anRW1nGInvkX9iwN41k5w8mh9ZM37yYJAZi8bPTBWdnnyQ3zrOmLBAGCwVHF1pGcLNeQg0DxOVyD7X8S0MPlWnger4FjQkH4E9pZVDcHqzA1Yud0Kd8-tTCCr4dK8daSBJID1EzBTVBWOhOEXmAy33OCXGxKoycG_eAWMP4AQt9OoTWDzoTUR8cL5DKmJqV_gDigeJgVLvcA5kpM6_oUWkfzSksvMBSVI4PLveZWWKfG1p0VyxEWf4U7U2c-YCGAyKYe5R6Z16el4UlELPA1f5qjERZaaUt4eJWD3ups655gA-XTW_inGZIsWeAyrL0LNByXRQq9jXupKVqT7nuFvZYtjW5Df38PhUmbz0Zp24IcCLGmvTfJC-jbwUREtBf0f05p2vlh5YXqN0VPghQ4G5QF7qe8N-kFtLuRmp24JuENfFLhqy19CYLMUckNeUL_FhT0pv1dXbTo1n6MYLRnn7qoxR9qziF9dvnOY",
+      "file": "26-css_k7q_8fakTpVm1URkc0cnne4_6rLwXVQ37ARraxn1GzQ.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/title-with-text.css?toxpzq",
+      "file": "27-title-with-text.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/view-point-card.css?toxpzq",
+      "file": "28-view-point-card.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/profile.css?toxpzq",
+      "file": "profile.css"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/dist/image-text-variant-three.css?toxpzq",
+      "file": "image-text-variant-three.css"
+    }
+  ],
+  "dependencies": [
+    {
+      "url": "https://www.insead.edu/core/misc/throbber-active.svg",
+      "file": "dep-d31b33caee-throbber-active.svg"
+    },
+    {
+      "url": "https://www.insead.edu/core/misc/loading-small.svg",
+      "file": "dep-5516e09efe-loading-small.svg"
+    },
+    {
+      "url": "https://www.insead.edu/core/misc/throbber-inactive.svg",
+      "file": "dep-b0de2ae4b0-throbber-inactive.svg"
+    },
+    {
+      "url": "https://www.insead.edu/core/vendor/jquery.ui/themes/base/images/ui-icons_444444_256x240.png",
+      "file": "dep-67aab30e74-ui-icons_444444_256x240.png"
+    },
+    {
+      "url": "https://www.insead.edu/core/vendor/jquery.ui/themes/base/images/ui-icons_555555_256x240.png",
+      "file": "dep-d88afa60f2-ui-icons_555555_256x240.png"
+    },
+    {
+      "url": "https://www.insead.edu/core/vendor/jquery.ui/themes/base/images/ui-icons_ffffff_256x240.png",
+      "file": "dep-0641b2f4de-ui-icons_ffffff_256x240.png"
+    },
+    {
+      "url": "https://www.insead.edu/core/vendor/jquery.ui/themes/base/images/ui-icons_777620_256x240.png",
+      "file": "dep-4ca4acac4b-ui-icons_777620_256x240.png"
+    },
+    {
+      "url": "https://www.insead.edu/core/vendor/jquery.ui/themes/base/images/ui-icons_cc0000_256x240.png",
+      "file": "dep-c934d92035-ui-icons_cc0000_256x240.png"
+    },
+    {
+      "url": "https://www.insead.edu/core/vendor/jquery.ui/themes/base/images/ui-icons_777777_256x240.png",
+      "file": "dep-bed9fb9326-ui-icons_777777_256x240.png"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/link-external.svg",
+      "file": "dep-476cc29ff7-link-external.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/icon-right-chevron.svg",
+      "file": "dep-3fc3fdf3a6-icon-right-chevron.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/tooltip-info-mega-menu.svg",
+      "file": "dep-b953ad86e8-tooltip-info-mega-menu.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/left-green-arrow.svg",
+      "file": "dep-fc6ae35bad-left-green-arrow.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/icon-green-down.svg",
+      "file": "dep-ecb6e8c5a3-icon-green-down.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/link-external.svg",
+      "file": "dep-f657522174-link-external.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/icon-black-close.svg",
+      "file": "dep-39e2810a73-icon-black-close.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/select-green-up.svg",
+      "file": "dep-c4c62c4f6a-select-green-up.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/right-green-arrow.svg",
+      "file": "dep-ed9000c06d-right-green-arrow.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/dash.svg",
+      "file": "dep-64dbeb2ad1-dash.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/icon-tick.svg",
+      "file": "dep-dcc6b9d7d5-icon-tick.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/icon-green-plus-small.svg",
+      "file": "dep-94096b0de8-icon-green-plus-small.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/icon-white-plus-small.svg",
+      "file": "dep-833caac8a3-icon-white-plus-small.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/up-arrow.svg",
+      "file": "dep-8f8ae269f9-up-arrow.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/pdf-icon.svg",
+      "file": "dep-43a34e4344-pdf-icon.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/search-icon.svg",
+      "file": "dep-781b0a6295-search-icon.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/external-link-white.svg",
+      "file": "dep-7a597c70b2-external-link-white.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/play-icon.svg",
+      "file": "dep-47becc43a5-play-icon.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/icon-tick-dark.svg",
+      "file": "dep-2eff34f31b-icon-tick-dark.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/icon-long-right-arrow-white.svg",
+      "file": "dep-f34566cad5-icon-long-right-arrow-white.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/download.svg",
+      "file": "dep-9c91819421-download.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/download-white.svg",
+      "file": "dep-cfcc17d780-download-white.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/email.svg",
+      "file": "dep-372a3a2743-email.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/book-a-call.svg",
+      "file": "dep-364913876d-book-a-call.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/tel.svg",
+      "file": "dep-d22bd707d8-tel.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/location.svg",
+      "file": "dep-1d3e8b01b7-location.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/website.svg",
+      "file": "dep-ce237ce65c-website.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/linkedin.svg",
+      "file": "dep-c2bb84df50-linkedin.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/quote-icon.svg",
+      "file": "dep-37666fdd1b-quote-icon.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/icon-small-tick.svg",
+      "file": "dep-e75577cf07-icon-small-tick.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/hamberger-menu.svg",
+      "file": "dep-ffcce30ab0-hamberger-menu.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/icon-close-small.svg",
+      "file": "dep-6ac3cd432c-icon-close-small.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/a-force-for-good.svg",
+      "file": "dep-e99002fef7-a-force-for-good.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/publishing.svg",
+      "file": "dep-3e98a6f4d1-publishing.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/in-the-know.svg",
+      "file": "dep-438b7c6902-in-the-know.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/global-ibs.svg",
+      "file": "dep-15402d2a2a-global-ibs.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/knowledge-dark.svg",
+      "file": "dep-4e75a06b6e-knowledge-dark.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/facebook.svg",
+      "file": "dep-ab411b1abc-facebook.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/x-twitter.svg",
+      "file": "dep-c75aae5a63-x-twitter.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/twitter.svg",
+      "file": "dep-5a34b39cae-twitter.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/linkedin.svg",
+      "file": "dep-bdeda6d913-linkedin.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/youtube.svg",
+      "file": "dep-3c5cd6a7d3-youtube.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/podcast.svg",
+      "file": "dep-0004a14593-podcast.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/rss.svg",
+      "file": "dep-3af60b8935-rss.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/award-2016-bronze.svg",
+      "file": "dep-061b0f2b98-award-2016-bronze.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/award-2016-silver.svg",
+      "file": "dep-dafcec161a-award-2016-silver.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/instagram.svg",
+      "file": "dep-7b4371814b-instagram.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/wharton.svg",
+      "file": "dep-e744ee9408-wharton.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/tshinghua.svg",
+      "file": "dep-75e881bf47-tshinghua.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/sorbonne.svg",
+      "file": "dep-45b85f1001-sorbonne.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/tiktok.svg",
+      "file": "dep-a692d94875-tiktok.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/css-icons/envelope.svg",
+      "file": "dep-f9c9902da9-envelope.svg"
+    },
+    {
+      "url": "https://www.insead.edu/profiles/custom/insead/themes/insead_core/images/icons/phone.svg",
+      "file": "dep-d142f41dc0-phone.svg"
+    }
+  ]
+}

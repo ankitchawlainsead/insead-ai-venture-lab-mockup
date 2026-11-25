@@ -1,7 +1,7 @@
-# INSEAD AI Venture Lab mockup
+# INSEAD AI Venture Lab Drupal mockup
 
-A review concept for bringing Venture Lab into INSEAD.edu using existing Drupal components.
+Static review pages using rendered INSEAD Drupal component markup and the existing public theme styles.
 
-Open `index.html` for the site or `drupal-guide.html` for the component handoff. This is a static mockup, not a published Drupal page. Application links open the existing Venture Lab service.
+Open index.html for the website or drupal-guide.html for the build guide. Native style provenance is recorded in native-theme-sources.json. This is a prototype, not a published Drupal page; editor Variant selections still need checking on a draft.
 
-Assets and source photography retain their respective owners’ rights. The INSEAD name and logo are used for this review concept.
+Assets and photography retain their respective owners’ rights. The INSEAD name and logo are used for this review concept.
