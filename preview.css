@@ -5,3 +5,5 @@ html{scroll-behavior:smooth;scroll-padding-top:175px}.header{z-index:100}.header
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 /* The production menu script positions these carets after initialisation. Its external destinations remain ordinary links in the static preview. */
 .header .insead-mega-menu__topbar-caret{display:block;position:absolute}
+/* Source portraits stand in for Drupal's square Profile Card image derivatives. */
+.profile-info__profile-image picture.image{display:block;width:100%;height:100%}
