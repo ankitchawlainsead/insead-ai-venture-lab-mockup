@@ -1,0 +1,112 @@
+{
+  "desktop": [
+    {
+      "page": "index.html",
+      "failedImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "width": 1366
+    },
+    {
+      "page": "sprint2027.html",
+      "failedImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "width": 1366
+    },
+    {
+      "page": "past-programmes.html",
+      "failedImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "width": 1366
+    },
+    {
+      "page": "partnerships.html",
+      "failedImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "width": 1366
+    },
+    {
+      "page": "drupal-guide.html",
+      "failedImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "width": 1366
+    }
+  ],
+  "mobile": [
+    {
+      "page": "index.html",
+      "failedImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "width": 390
+    },
+    {
+      "page": "sprint2027.html",
+      "failedImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "width": 390
+    },
+    {
+      "page": "past-programmes.html",
+      "failedImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "width": 390
+    },
+    {
+      "page": "partnerships.html",
+      "failedImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "width": 390
+    },
+    {
+      "page": "drupal-guide.html",
+      "failedImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "width": 390,
+      "correction": "Final guide verified at 390px after CSS correction"
+    }
+  ],
+  "narrow": [
+    {
+      "page": "index.html",
+      "overflow": 0,
+      "width": 320
+    },
+    {
+      "page": "sprint2027.html",
+      "overflow": 0,
+      "width": 320
+    },
+    {
+      "page": "past-programmes.html",
+      "overflow": 0,
+      "width": 320
+    },
+    {
+      "page": "partnerships.html",
+      "overflow": 0,
+      "width": 320
+    },
+    {
+      "page": "drupal-guide.html",
+      "overflow": 0,
+      "width": 320
+    }
+  ],
+  "interactions": [
+    "Mobile menu opens and closes after navigation",
+    "Research link reaches anchor",
+    "FAQ opens with answer",
+    "Wider team disclosure displays 14 profiles",
+    "Component overlay toggles"
+  ],
+  "note": "Local page checks only; component variants not CMS-rendered; external forms not submitted"
+}
